@@ -28,7 +28,7 @@ const Home = ({ dark }) => {
               <div className="job">
                 <p>
                   A <span className="greenText">{data && data.mainSkill}</span>{" "}
-                  From <span className="purpleText">{data.address}</span>
+                  In The <span className="purpleText">{data.address}</span>
                 </p>
               </div>
               <div className="text">
